@@ -1,0 +1,17 @@
+{
+  "name": "2-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-lexical.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lexical": "nodemon 1-lexical.js",
+    "closure": "nodemon 2-closure.js",
+    "alcancia": "nodemon 3-myMoneyBox.js"
+  },
+  "author": "DanielCG",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

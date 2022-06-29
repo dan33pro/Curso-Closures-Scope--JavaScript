@@ -1,0 +1,19 @@
+{
+  "name": "scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "global-scope": "nodemon 1-global.js",
+    "function-scope": "nodemon 2-function.js",
+    "block-scope": "nodemon 3-block.js",
+    "re": "nodemon 4-re__asignacion-declaracion.js",
+    "mode-strict": "nodemon 5-strict.js"
+  },
+  "author": "DanielCG",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

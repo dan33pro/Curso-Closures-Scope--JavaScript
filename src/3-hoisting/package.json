@@ -1,0 +1,15 @@
+{
+  "name": "3-hoisting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hoisting": "nodemon 1-index.js"
+  },
+  "author": "DanielCG",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
